@@ -28,7 +28,7 @@ Os alunos podem escolher entre as linguagens C# ou Java para o desenvolvimento d
 
    - **Calcular Total de Doações**: O sistema deve ser capaz de calcular o total de doações recebidas. Deve haver uma função que some todas as doações e apresente o total em uma interface fácil de entender.
 
-   - **Armazenar Informações de Doações**: Todas as informações sobre as doações devem ser armazenadas em um banco de dados. Isso permitirá que as informações sejam recuperadas e analisadas posteriormente.
+   - **Armazenar Informações de Doações**: Todas as informações sobre as doações devem ser armazenadas em um banco de dados ou arquivo texto. Isso permitirá que as informações sejam recuperadas e analisadas posteriormente.
 
    A implementação deste sistema permitirá que os estudantes apliquem os conhecimentos adquiridos na disciplina de Programação de Soluções Computacionais e também contribuirá para uma causa social importante. Além disso, o uso de uma IA Generativa no processo de desenvolvimento do sistema permitirá que os estudantes explorem as possibilidades de uso desses softwares no desenvolvimento de sistemas.
 
